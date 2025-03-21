@@ -4,5 +4,5 @@ c=int(input("Enter Third Number:-")
       d=a*b*c
 print(d)
 
-
+ 
 
