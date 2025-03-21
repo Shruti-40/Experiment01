@@ -1,5 +1,8 @@
 a=int(input("Enter First Number:-")
 b=int(input("Enter Second Number:-")
-c=Enter Third number=a-b
-print(c)
+c=int(input("Enter Third Number:-")
+      d=a*b*c
+print(d)
+
+
 
